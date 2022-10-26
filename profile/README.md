@@ -13,3 +13,4 @@
 * Comprehensive built-in assertion rules modules, extensible
 * Built-in set of field-level profile masks
 * Compound assertion rule definition (i.e. a set of sub-rules must all pass)
+* Human-readable Data Quality and Assertion Rule Compliance report output
